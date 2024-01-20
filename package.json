@@ -1,0 +1,28 @@
+{
+	"name": "template",
+	"version": "1.0.0",
+	"description": "",
+	"files": ["dist/**/*"],
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AUTHOR/PACKAGE"
+	},
+	"keywords": ["some", "keywords", "here"],
+	"author": "AUTHOR",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AUTHOR/PACKAGE/issues"
+	},
+	"homepage": "https://github.com/AUTHOR/PACKAGE#readme",
+	"dependencies": {
+		"@sapphire/ts-config": "^5.0.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.5.2"
+	}
+}

@@ -1,0 +1,1 @@
+usage: clone, change package.json and code!
